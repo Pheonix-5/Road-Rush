@@ -37,6 +37,8 @@ SFML consists of various modules:
 
 - if you haven't placed SFML in C drive it will show error 
 - And you are ready to go :)
+- download SFML from - https://www.sfml-dev.org/download/sfml/2.5.1/
+- If want to contact then just mail me at <8859akshaysharma@gmail.com>
 
 
 # Extra
