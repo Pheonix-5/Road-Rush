@@ -1,0 +1,9 @@
+﻿  road rush.cpp
+D:\road rush\road rush\move.h(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\road rush\road rush\move.h(93,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\road rush\road rush\move.h(94,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\road rush\road rush\move.h(95,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\road rush\road rush\move.h(96,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\road rush\road rush\move.h(97,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\road rush\road rush\move.h(103,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  road rush.vcxproj -> D:\road rush\x64\Debug\road rush.exe
