@@ -6,7 +6,7 @@ Road Rush is a 2D game developed using c++ and SFML, and this whole program is b
 # REQUIREMENTS
 
 if you want to use this project your PC must have
-- Visual studio community
+- Visual studio community 2022
 - SFML
 
 
@@ -30,12 +30,15 @@ SFML consists of various modules:
 - Network – TCP and UDP network sockets, data encapsulation facilities, HTTP and FTP classes
 
 # HOW TO USE 
-- after you fork the repo in your PC, setup SFML in C drive
+
+- after forking the repo. in your device, open road rush.sln file, it will open whole solution in visual studio community.
+- setup SFML in C drive
+- if you haven't placed SFML in C drive it will show error 
+- because there are two fields where we have to pass the location of SFML directory
+
 <img width="578" alt="Screenshot 2022-11-22 205125" src="https://user-images.githubusercontent.com/82761151/203353689-fc26cd19-6853-40ed-81ca-fd712d6aaec8.png">
 <img width="584" alt="Screenshot 2022-11-22 205151" src="https://user-images.githubusercontent.com/82761151/203353698-4f079adc-cd9a-44b3-a570-fbc3318f7d92.png">
 
-
-- if you haven't placed SFML in C drive it will show error 
 - And you are ready to go :)
 - download SFML from - https://www.sfml-dev.org/download/sfml/2.5.1/
 - If want to contact then just mail me at <8859akshaysharma@gmail.com>
